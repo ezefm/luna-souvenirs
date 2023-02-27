@@ -10,12 +10,8 @@ public class LunaSouvenirsApplication {
 
         SpringApplication.run(LunaSouvenirsApplication.class, args);
 
-        String var="h";
+        String lel = "lele";
 
 
     }
-
-
-
-
 }
