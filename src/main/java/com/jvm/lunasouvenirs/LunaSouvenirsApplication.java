@@ -7,7 +7,15 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LunaSouvenirsApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(LunaSouvenirsApplication.class, args);
+
+        String var="h";
+
+
     }
+
+
+
 
 }
