@@ -10,8 +10,5 @@ public class LunaSouvenirsApplication {
 
         SpringApplication.run(LunaSouvenirsApplication.class, args);
 
-        String lel = "lele";
-
-        String commit = "qweqweqw";
     }
 }
